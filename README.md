@@ -4,6 +4,8 @@ Utility to help do the necessary calculations for the DFI Community Lottery
 ## Lottery Info:
 https://sites.google.com/view/defichaincommunitylotto/home?authuser=0
 
+## Install:
+pip -r requirements.txt
 ## Built-in help:
 ```
 > python3 ./dfi_lotto_calc.py calc -h
@@ -38,6 +40,9 @@ optional arguments:
                         metrics)
   -o OUTDIR             Directory to write output files (default: .)
 ```
+## Things to note:
+1. -b/-block_id argument must be a DFI blockchain block from the target date.  dfi_lotto_calc will attempt to find the first block from that day using https://defiscan.live/ , so the blockID can be given or the block hash.  This is done through a recursive function, which may fail if a beginning search block close enough to midnight is NOT picked.
+2. If -D/-debug option is given the KuCoin sandbox mode will be used.  The sandbox does NOT have a DFI/USDT price, so ETH/USDT is used in it's place.  KuCoin's price history is not very extensive, so if the lookup fails the -dfi/-btc arguments MUST be provided.  If dfi_lotto_calc is run close enough to midnight the day of -d/target_date the KuCoin lookup should work!
 ## DEBUG option (-D) to use KuCoin sandbox mode!
 ```
 > python3 ./dfi_lotto_calc.py -c dfi_lotto_calc.conf calc -D -t 60 -d 2022-02-05 -b 1598835 -dfi 2.793 -btc 41603.4
