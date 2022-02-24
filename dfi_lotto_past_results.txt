@@ -1,0 +1,101 @@
+
+##########################################
+DeFiChain Community Lottery Drawing 5
+##########################################
+############# Fetching BTC & DFI prices at midnight of target_date ( 2022-02-05 00:00:00 ) from KuCoin #############
+WARNING!  Could not determine proper dfi_at_midnight, using 1.0
+WARNING!  Could not determine proper btc_at_midnight, using 1.0
+btc_at_midnight:  41603.4
+dfi_at_midnight:  2.793
+multiply_dfi_by_btc:  116198
+############# Determing first DFI chain block of target_date ( 2022-02-05 00:00:00 ), starting from block # 1598835  #############
+Please be patient, this could take awhile...
+#### Examining block # 1598835 : Feb 5, 2022, 12:00:02 AM
+#### Examining block # 8758f7957341b17f781af71f4a4e8b2a932dfcaddf9fad8fcc5e4d7fa4298823 : Feb 4, 2022, 11:59:13 PM
+first_block_of_target_day:  1598835
+last_4_digits_of_block_hash:  e4a9
+last_4_digits_of_block_minter:  k1cn
+first_concat:  1161981598835e4a9k1cn
+sha256_result:  28505e2b32e56684c96fc85273b793ac60f808294c25f2b72bdb838f79a6cd11
+second_concat:  285056cd11
+decimal_of_second_concat:  173146557713
+decimal_result:  0.15747587687019404
+total_number_of_tickets:  60
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!! winning_ticket:  9  !!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+##########################################
+DeFiChain Community Lottery Drawing 4
+##########################################
+############# Fetching BTC & DFI prices at midnight of target_date ( 2022-01-29 00:00:00 ) from KuCoin #############
+btc_at_midnight:  37812.7
+dfi_at_midnight:  2.588
+multiply_dfi_by_btc:  97859
+############# Determing first DFI chain block of target_date ( 2022-01-29 00:00:00 ), starting from block # 1578717  #############
+Please be patient, this could take awhile...
+#### Examining block # 1578717 : Jan 29, 2022, 12:00:56 AM
+#### Examining block # df180e6668ed05607cf7afacc4f68fba52ac72cf86e4779a9c9c488f3efb45cb : Jan 28, 2022, 11:59:58 PM
+first_block_of_target_day:  1578717
+last_4_digits_of_block_hash:  a41b
+last_4_digits_of_block_minter:  hB7e
+first_concat:  978591578717a41bhB7e
+sha256_result:  68a23c266567b01fcc6bfc78c61a5515c6372acda3f13080dc6f50725b8618db
+second_concat:  68a23618db
+decimal_of_second_concat:  449398053083
+decimal_result:  0.40872514826605766
+total_number_of_tickets:  79
+##########################################
+######### winning_ticket:  32  #########
+##########################################
+
+
+##########################################
+DeFiChain Community Lottery Drawing 3
+##########################################
+############# Fetching BTC & DFI prices at midnight of target_date ( 2022-01-22 00:00:00 ) #############
+btc_at_midnight:  36433.5
+dfi_at_midnight:  2.581
+multiply_dfi_by_btc:  94035
+############# Determing first DFI chain block of target_date ( 2022-01-22 00:00:00 ), starting from block # 1558674  #############
+Please be patient, this could take awhile...
+#### Examining block # 1558674 : Jan 22, 2022, 12:00:07 AM
+#### Examining block # 082694e6c9189644190578f701437ae13582677f26d33c3213750e1f9293f1fd : Jan 21, 2022, 11:59:50 PM
+first block of target day:  1558674
+last_4_digits_of_block_hash:  ecbd
+last_4_digits_of_block_minter:  rftf
+first_concat:  940351558674ecbdrftf
+sha256_result:  ca0e825c2ebeb16133f28ce633cab478d32e8ef09dc795135fd5252e6bee899e
+second_concat:  ca0e8e899e
+decimal_of_second_concat:  867827616158
+decimal_result:  0.7892846189479314
+total_number_of_tickets:  343
+##########################################
+######### winning_ticket:  271  #########
+##########################################
+
+##########################################
+DeFiChain Community Lottery Drawing 2
+##########################################
+############# Fetching BTC & DFI prices at midnight of target_date ( 2022-01-15 00:00:00 ) from KuCoin #############
+btc_at_midnight:  42999.9
+dfi_at_midnight:  3.004
+multiply_dfi_by_btc:  129172
+############# Determing first DFI chain block of target_date ( 2022-01-15 00:00:00 ), starting from block # 1538481  #############
+Please be patient, this could take awhile...
+#### Examining block # 1538481 : Jan 15, 2022, 12:01:40 AM
+#### Examining block # 5398c3b41d0536173501f356c273271b31c46728a5b07103d747ad83cf306057 : Jan 14, 2022, 11:57:38 PM
+first_block_of_target_day:  1538481
+last_4_digits_of_block_hash:  6bcc
+last_4_digits_of_block_minter:  cTZp
+first_concat:  12917215384816bcccTZp
+sha256_result:  89fe41049bcc960d61bb5083b8837e6b8d3f5da33d6a966b92948763fa15d24e
+second_concat:  89fe45d24e
+decimal_of_second_concat:  592676508238
+decimal_result:  0.5390361441077403
+total_number_of_tickets:  65
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!! winning_ticket:  35  !!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
